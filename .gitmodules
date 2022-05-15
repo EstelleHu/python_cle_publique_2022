@@ -6,7 +6,11 @@
 	path = composant_cle/micro-ecc
 	url = https://github.com/jluuM2/micro-ecc
 	branch = master
-[submodule "composant_cle/conv-string-bin"]
-	path = composant_cle/conv-string-bin
+[submodule "composant_cle/Conversion_String_binaire"]
+	path = composant_cle/Conversion_String_binaire
 	url = https://github.com/jluuM2/Conversion_String_binaire
 	branch = main
+[submodule "extern/pybind11"]
+	path = extern/pybind11
+	url = ../../pybind/pybind11
+	branch = stable
